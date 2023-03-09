@@ -34,8 +34,6 @@
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-machine-learning"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-machine-learning">View Demo</a>
-    ·
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-machine-learning/issues">Report Bug</a>
     ·
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-machine-learning/issues">Request Feature</a>
