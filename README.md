@@ -39,8 +39,6 @@
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-machine-learning/issues">Report Bug</a>
     ·
     <a href="https://github.com/danieldealmeidaduque/ufes-ia-machine-learning/issues">Request Feature</a>
-    <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ia-machine-learning/issues">Request Feature</a>
   </p>
 </div>
 
