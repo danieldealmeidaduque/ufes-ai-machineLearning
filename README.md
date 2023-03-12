@@ -19,7 +19,7 @@
 ## About The Project
 
 <p align="justify">
-    The article aims to compare five supervised machine learning methods - ZeroR (ZR), Gaussian Naive Bayes (NBG), KMeans Centroids (KMC), K Nearest Neighbors (KNN), and Decision Tree (AD) - for classifying the wine database using accuracy as the score for comparisons. This is done in order to verify the visual difference between the classifiers, using an accuracy table and boxplots with the scores of each method, as well as the statistical difference by comparing each method pair-wise using the paired t-test and the Wilcoxon test.
+    The objective is to compare the accuracy of five supervised machine learning methods, namely ZeroR (ZR), Gaussian Naive Bayes (NBG), KMeans Centroids (KMC), K Nearest Neighbors (KNN), and Decision Tree (AD), in classifying the wine database from scikit-learn. I aim to present the results of this comparison through an accuracy table and boxplots, which will showcase the visual differences between the classifiers. Additionally, I will perform a statistical analysis by comparing each method pair-wise using both the paired t-test and the Wilcoxon test. The goal of this analysis is to establish whether there are any significant statistical differences between the methods.
 </p>
 
 
