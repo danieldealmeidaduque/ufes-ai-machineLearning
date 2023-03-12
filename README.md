@@ -1,4 +1,4 @@
-<h3 align="center"> Analysis of supervised learning methods in classification problems </h3>
+<h3 align="center"> Analysis of Supervised Learning methods in classification problems </h3>
 
   <p align="center">
     Work for Artificial Intelligence classes from Federal University of Espirito Santo
