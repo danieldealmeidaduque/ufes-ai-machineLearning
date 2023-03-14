@@ -5,13 +5,13 @@
     <br />
     using Machine Learning
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-machinelearning"<strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-machineLearning"<strong>Explore the docs »</strong></a>
     <br />
     06/22 - 06/22
     <br />
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-machinelearning">Report Bug</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-machineLearning">Report Bug</a>
     ·
-    <a href="https://github.com/danieldealmeidaduque/ufes-ai-machinelearning">Request Feature</a>
+    <a href="https://github.com/danieldealmeidaduque/ufes-ai-machineLearning">Request Feature</a>
   </p>
 </div>
 
